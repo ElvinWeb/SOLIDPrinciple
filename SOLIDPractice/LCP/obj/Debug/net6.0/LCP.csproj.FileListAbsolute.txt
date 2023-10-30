@@ -1,0 +1,14 @@
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\bin\Debug\net6.0\LCP.exe
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\bin\Debug\net6.0\LCP.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\bin\Debug\net6.0\LCP.runtimeconfig.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\bin\Debug\net6.0\LCP.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\bin\Debug\net6.0\LCP.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\obj\Debug\net6.0\LCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\obj\Debug\net6.0\LCP.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\obj\Debug\net6.0\LCP.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\obj\Debug\net6.0\LCP.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\obj\Debug\net6.0\LCP.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\obj\Debug\net6.0\refint\LCP.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\obj\Debug\net6.0\LCP.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\obj\Debug\net6.0\LCP.genruntimeconfig.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\LCP\obj\Debug\net6.0\ref\LCP.dll

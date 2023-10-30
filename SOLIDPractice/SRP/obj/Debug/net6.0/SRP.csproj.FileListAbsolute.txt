@@ -1,0 +1,14 @@
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\bin\Debug\net6.0\SRP.exe
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\bin\Debug\net6.0\SRP.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\bin\Debug\net6.0\SRP.runtimeconfig.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\bin\Debug\net6.0\SRP.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\bin\Debug\net6.0\SRP.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\obj\Debug\net6.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\obj\Debug\net6.0\SRP.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\obj\Debug\net6.0\SRP.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\obj\Debug\net6.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\obj\Debug\net6.0\SRP.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\obj\Debug\net6.0\refint\SRP.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\obj\Debug\net6.0\SRP.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\obj\Debug\net6.0\SRP.genruntimeconfig.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\SRP\obj\Debug\net6.0\ref\SRP.dll

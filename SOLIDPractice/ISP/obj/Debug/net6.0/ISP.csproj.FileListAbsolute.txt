@@ -1,0 +1,14 @@
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\bin\Debug\net6.0\ISP.exe
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\bin\Debug\net6.0\ISP.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\bin\Debug\net6.0\ISP.runtimeconfig.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\bin\Debug\net6.0\ISP.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\bin\Debug\net6.0\ISP.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\obj\Debug\net6.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\obj\Debug\net6.0\ISP.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\obj\Debug\net6.0\ISP.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\obj\Debug\net6.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\obj\Debug\net6.0\ISP.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\obj\Debug\net6.0\refint\ISP.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\obj\Debug\net6.0\ISP.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\obj\Debug\net6.0\ISP.genruntimeconfig.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\SOLIDPractice\ISP\obj\Debug\net6.0\ref\ISP.dll
